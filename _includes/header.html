@@ -1,10 +1,10 @@
 <header class="site-header">
-  <a href="{{ "/" | relative_url }}">
+  <a href="{{ site.url }}">
     <img src="{{ site.url }}/assets/img/logo.png" alt="Logo" class="logo" style="height:100px;">
   </a>
   <nav class="nav">
     {% assign here = page.url | default: '/' %}
     <a href="{{ '/' | relative_url }}" class="{% if here == '/' %}active{% endif %}">Home</a>
-    <a href="{{ '/mechanics/syllabus/' | relative_url }}" class="{% if here contains '/mechanics/syllabus' %}active{% endif %}">syllabus</a>
+    <a href="{{ '/mechanics/syllabus/' | relative_url }}" class="{% if here contains '/mechanics/syllabus' %}active{% endif %}">Syllabus</a>
   </nav>
 </header>

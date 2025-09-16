@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mechanics Syllabus"
+title: "Syllabus"
 ---
 
 # Mechanics Syllabus
