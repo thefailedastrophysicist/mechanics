@@ -5,6 +5,6 @@
   <nav class="nav">
     {% assign here = page.url | default: '/' %}
     <a href="{{ '/' | relative_url }}" class="{% if here == '/' %}active{% endif %}">Home</a>
-    <a href="{{ '/mechanics/syllabus/' | relative_url }}" class="{% if here contains '/mechanics/syllabus' %}active{% endif %}">Syllabus</a>
+    <a href="{{ '/' | relative_url }}" class="{% if here contains '/syllabus' %}active{% endif %}">Syllabus</a>
   </nav>
 </header>
