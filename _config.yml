@@ -5,3 +5,4 @@ baseurl: "/mechanics"
 theme: minima
 
 markdown: kramdown
+permalink: /:title/
