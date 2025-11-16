@@ -10,8 +10,10 @@ A comprehensive syllabus covering Newtonian, analytical, continuum, and relativi
 
 ## 📂 Contents  
 
+<div class="syllabus-links">
+  
 ### Part I: Understanding the Basics
-1. [Physics Beings with Noticing](https://thefailedastrophysicist.github.io/mechanics/units/)
+1. [Physics Begins with Noticing](https://thefailedastrophysicist.github.io/mechanics/units/)
 
-
+</div>
 
