@@ -9,6 +9,9 @@ A comprehensive syllabus covering Newtonian, analytical, continuum, and relativi
 
 ## 📂 Contents  
 
+### Part I: Understanding the Basics
+1. [Physics Beings with Noticing]([https://](https://thefailedastrophysicist.github.io/mechanics/units/))
+[comment]: <> (
 ### Part I: Vectors and Kinematics  
 1. **Vectors and Preliminaries**  
    - Definition of a Vector  
@@ -187,4 +190,4 @@ A comprehensive syllabus covering Newtonian, analytical, continuum, and relativi
 - Applications in Particle Physics and Accelerators  
 - Engineering Applications of Mechanics  
 
-
+)
