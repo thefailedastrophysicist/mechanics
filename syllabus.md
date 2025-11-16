@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Syllabus"
+permalink: /syllabus/
 ---
 
 A comprehensive syllabus covering Newtonian, analytical, continuum, and relativistic mechanics.  
